@@ -6,6 +6,7 @@ We are planning to convert this website template into a online rescued cat adopt
 
 As the initial step I have found a bootstrap theme we can strip down and create a funcional website. Let's build this together. 
 
+
 What is needed
 ------
 1. A Front Page slider
@@ -15,3 +16,13 @@ What is needed
 3. Contact us page with contact form & google map integration
 
 4. Cats Profiles page to display all cats that are available for adoption
+
+
+To hacktoberfest participants
+------
+
+Have a look in issues section with help wanted tag and let me know if you can help with issues. 
+
+Please don't open spam pull requests or pull requests for change suggestions.
+
+If you have suggestions and can contribute toward making it happen please open an issue.
