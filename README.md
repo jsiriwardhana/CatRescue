@@ -6,10 +6,10 @@ We are planning to convert this website into a online rescued cat adoption websi
 
 What is needed
 ------
-1.A Front Page slider
+1. A Front Page slider
 
-2.About us page
+2. About us page
 
-3.Contact us page with contact form & google map integration
+3. Contact us page with contact form & google map integration
 
-4.Cats Profiles page to display all cats that are available for adoption
+4. Cats Profiles page to display all cats that are available for adoption
