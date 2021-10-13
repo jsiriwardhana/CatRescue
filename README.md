@@ -23,6 +23,6 @@ To hacktoberfest participants
 
 Have a look in issues section with help wanted tag and let me know if you can help with issues. 
 
-Please don't open spam pull requests or pull requests for change suggestions.
+Please don't open spam pull requests or pull requests for suggestions.
 
 If you have suggestions and can contribute toward making it happen please open an issue.
