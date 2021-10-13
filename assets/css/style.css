@@ -1345,3 +1345,24 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+/* Responsive Footer Page Links */
+@media only screen and (min-width: 992px){
+  .footer-links.desktop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer-links.mobile{
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 991px){
+  .footer-links.desktop{
+    display: none;
+  }
+  .footer-links.mobile{
+    display: block;
+  }
+}
