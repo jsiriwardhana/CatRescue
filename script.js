@@ -1,0 +1,1 @@
+//check it https://github.com/mverissimo/tweenslideshow
